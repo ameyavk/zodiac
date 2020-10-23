@@ -4,7 +4,7 @@ env:
    VIRGO_ALIAS: zbpvirgo
 #on:
 #  push:
-#    paths:
+#    paths: 
 #    - LibraQueueHandler/LibraQueueHandler/**
 
 on: [workflow_dispatch]
